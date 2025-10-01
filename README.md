@@ -16,7 +16,7 @@ The project experiments with various techniques: from preprocessing, to classica
 
 | File/Folder | Description |
 |-------------|-------------|
-| `fake-and-real-news-dataset/` | Dataset of real and fake news (e.g. from Kaggle) |
+| `fake-and-real-news-dataset/` | Dataset of real and fake news from Kaggle |
 | `imgs/` | Images or visualizations used in report/documentation |
 | `model/` | Final trained model or large model-related files |
 | `models/` | Different trained models |
@@ -24,8 +24,8 @@ The project experiments with various techniques: from preprocessing, to classica
 | `01.Preprocessing.ipynb` | Text preprocessing steps (cleaning, tokenization, stopword removal, etc.) |
 | `02.Classical_ML_models.ipynb` | Training classical ML models (Logistic Regression, SVM, Random Forest, etc.) |
 | `03.RNN_GRU_LSTM_models.ipynb` | Neural network models (RNN, GRU, LSTM) |
-| `04.Transformer_Fine-tuning.ipynb` | Fine-tuning Transformer models (e.g. BERT, RoBERTa) |
-| `home.py` | Simple user interface (e.g. Streamlit/Flask app) to test the model |
+| `04.Transformer_Fine-tuning.ipynb` | Fine-tuning Transformer models|
+| `home.py` | Simple user interface Streamlit app to test the model |
 | `Report.pdf` | Final project report with results and analysis |
 | `README.md` | This documentation file |
 
