@@ -1,6 +1,6 @@
 # Fake and Real News Classification 📰🔍
 
-![Dataset Cover](https://storage.googleapis.com/kaggle-datasets-images/4831777/8165591/2f455915fd250d05f6709b21b65c6bcc/dataset-cover.jpg)
+![Dataset Cover](https://github.com/abdosaied22/fake-and-real-news-Classification/blob/main/imgs/cover.jpg?raw=true)
 
 A machine learning and deep learning project to classify **fake** and **real** news articles.
 
