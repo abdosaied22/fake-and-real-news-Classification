@@ -1,5 +1,7 @@
 # Fake and Real News Classification 📰🔍
 
+![Dataset Cover](https://storage.googleapis.com/kaggle-datasets-images/4831777/8165591/2f455915fd250d05f6709b21b65c6bcc/dataset-cover.jpg)
+
 A machine learning and deep learning project to classify **fake** and **real** news articles.
 
 ---
@@ -10,7 +12,6 @@ In today’s world where news spreads rapidly, the objective of this project is 
 The project experiments with various techniques: from preprocessing, to classical ML models, to deep learning (RNN/GRU/LSTM), and finally fine-tuning Transformer models.
 
 ---
-![Fake News Detection](https://storage.googleapis.com/kaggle-datasets-images/4831777/8165591/2f455915fd250d05f6709b21b65c6bcc/dataset-cover.jpg?t=2024-04-20-04-53-50)
 
 ## 📁 Repository Structure
 
